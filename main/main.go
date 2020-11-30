@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/hilmanshini/golang_aes_jwt2/jwt_aes"
+	"github.com/hilmanshini/golang_aes_jwt4/jwt_aes"
 
 	"github.com/dgrijalva/jwt-go"
 )

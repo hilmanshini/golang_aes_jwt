@@ -1,4 +1,4 @@
-module github.com/hilmanshini/golang_aes_jwt2
+module github.com/hilmanshini/golang_aes_jwt4
 
 go 1.15
 
