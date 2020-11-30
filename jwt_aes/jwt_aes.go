@@ -1,9 +1,10 @@
 package jwt_aes
 
 import (
-	"enc_jwt_aes/aes"
 	"encoding/base64"
 	"errors"
+
+	"github.com/hilmanshini/golang_aes_jwt2/aes"
 
 	"github.com/dgrijalva/jwt-go"
 )
