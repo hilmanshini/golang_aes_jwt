@@ -1,7 +1,7 @@
 package main
 
 import (
-	"enc/jwt_aes"
+	"enc_jwt_aes/jwt_aes"
 	"log"
 
 	"github.com/dgrijalva/jwt-go"

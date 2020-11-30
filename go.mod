@@ -1,4 +1,4 @@
-module enc
+module enc_jwt_aes
 
 go 1.15
 

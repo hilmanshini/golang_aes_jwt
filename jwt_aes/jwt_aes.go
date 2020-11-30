@@ -1,7 +1,7 @@
 package jwt_aes
 
 import (
-	"enc/aes"
+	"enc_jwt_aes/aes"
 	"encoding/base64"
 	"errors"
 
